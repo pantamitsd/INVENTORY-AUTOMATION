@@ -22,7 +22,14 @@ ACCOUNTS = {
         "password": "Emiza@123",
         "seller_id": "80000333",
         "warehouse_id": "600040"
+    } 
+    "MUMBAI": {
+        "cred": "billdesk@swissmilitaryindia.com",
+        "password": "Emiza@123",
+        "seller_id": "80000329",
+        "warehouse_id": "600044"
     }
+    
 }
 
 # ✅ HOME
